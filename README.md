@@ -8,7 +8,7 @@ I'm a software developer - have experience in building mobile and web applicatio
 - 📫 Reach me at prasathravi63@gmail.com
 
 #### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,ts,react,nodejs,nextjs,redux,swift,docker,figma,firebase,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,ts,react,nodejs,nextjs,redux,swift,docker,figma,firebase,vim,vscode,mongodb)](https://skillicons.dev)
 
 #### Github Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasathRavichandran&layout=compact&hide=makefile,c++&hide_border=true&&theme=tokyonight)](https://github.com/PrasathRavichandran)
