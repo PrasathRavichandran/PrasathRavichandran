@@ -9,6 +9,3 @@ I'm a software developer - have experience in building mobile and web applicatio
 
 #### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,ts,react,nodejs,nextjs,redux,swift,flutter,docker,figma,firebase,vim,vscode,mongodb)](https://skillicons.dev)
-
-#### Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasathRavichandran&layout=compact&hide=makefile,c++&hide_border=true&&theme=tokyonight)](https://github.com/PrasathRavichandran)
