@@ -3,7 +3,7 @@
 I'm a software developer - have experience in building mobile and web applications. I enjoy writing clean, scalable code and continuously learning new technologies.
 
 - 💻 I’m currently working on Reactjs, Nodejs, MongoDB, AWS, React Native
-- 👨‍🎓 I’m currently learning Swift, SwiftUI, Flutter.
+- 👨‍🎓 I’m currently learning Go lang.
 - 🧑‍🤝‍🧑 I’m looking to collaborate with other developers or designers to work on new projects
 - 📫 Reach me at prasathravi63@gmail.com
 
